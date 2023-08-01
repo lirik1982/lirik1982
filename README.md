@@ -12,8 +12,8 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Python?style=flat&logo=angular&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Code-JSbase?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-JSbase-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 <br>
 ![](https://img.shields.io/badge/DB-PostgreSQL?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/DB-MySQL?style=flat&logo=angular&logoColor=white&color=0D76A8)
