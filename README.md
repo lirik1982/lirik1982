@@ -11,6 +11,11 @@
 
 ## 📌 Pinned Repositories
 
+<a href="https://github.com/lirik1982/Car-sale">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Car-sale&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Car-sale)](https://github.com/lirik1982/Car-sale)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=RadioStation)](https://github.com/lirik1982/RadioStation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=React-Django)](https://github.com/lirik1982/React-Django)
