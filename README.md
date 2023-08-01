@@ -15,15 +15,15 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-JSbase-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 <br>
-![](https://img.shields.io/badge/DB-PostgreSQL?style=flat&logo=angular&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/DB-MySQL?style=flat&logo=angular&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/DB-Redis?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 <br>
-![](https://img.shields.io/badge/Framework-Django?style=flat&logo=angular&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Framework-Flask?style=flat&logo=angular&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Framework-Pytest?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Framework-Pytest-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 <br>
-![](https://img.shields.io/badge/Framework-Django?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 
 
 
