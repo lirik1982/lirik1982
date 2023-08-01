@@ -34,10 +34,12 @@
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Framework-Pytest-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Framework-iohttp-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 <br>
 ![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 <br>
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
