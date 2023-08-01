@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1 align="center"></h1>
+
 ![](https://komarev.com/ghpvc/?username=lirik1982)
 
 <!--
