@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"></h1>
+[![Kirill's GitHub Banner](./main.png)](https://github.com/lirik1982)
 
 ![](https://komarev.com/ghpvc/?username=lirik1982)
 
