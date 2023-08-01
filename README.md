@@ -14,16 +14,24 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-JSbase-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 <br>
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 <br>
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Framework-Pytest-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 <br>
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+<br>
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
+
 
 
 
