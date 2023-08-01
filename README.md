@@ -1,7 +1,9 @@
-### Hi there 👋
 [![Kirill's GitHub Banner](./main.png)](https://github.com/lirik1982)
-
 ![](https://komarev.com/ghpvc/?username=lirik1982)
+
+Добро пожаловать!
+Я молодой Python-разработчик, и тут Вы можете ознакомиться с моими наработками и скилами!
+
 
 <!--
 **lirik1982/lirik1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
