@@ -14,7 +14,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Car-sale)](https://github.com/lirik1982/Car-sale)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=RadioStation)](https://github.com/lirik1982/RadioStation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=React-Django)](https://github.com/lirik1982/React-Django)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Python)](https://github.com/lirik1982/Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=shop)](https://github.com/lirik1982/shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Django-Shop)](https://github.com/lirik1982/Django-Shop)
+<br>
 
 
 ## 💼 Skills
@@ -38,7 +41,6 @@
 <br>
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)
-
 <br>
 
 
@@ -51,6 +53,5 @@
 <a href="https://github.com/lirik1982">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lirik1982&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
-
 <br>
 
