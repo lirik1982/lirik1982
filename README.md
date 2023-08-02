@@ -5,8 +5,9 @@
 [![VKontakte](https://img.shields.io/badge/VKontakte-Profile-informational?style=flat&logo=angular&logoColor=white&color=0D76A8)](https://www.vk.com/kirill.degtyarev/)
 
 
-Добро пожаловать!
+<h2>Добро пожаловать!
 Я молодой Python-разработчик, и тут Вы можете ознакомиться с моими наработками и скилами!
+</h2>
 <br>
 
 ## 📌 Pinned Repositories
