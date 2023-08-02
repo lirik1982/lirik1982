@@ -13,10 +13,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Car-sale)](https://github.com/lirik1982/Car-sale)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=RadioStation)](https://github.com/lirik1982/RadioStation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=React-Django)](https://github.com/lirik1982/React-Django)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Python)](https://github.com/lirik1982/Python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=shop)](https://github.com/lirik1982/shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Django-Shop)](https://github.com/lirik1982/Django-Shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Telegram_buy)](https://github.com/lirik1982/Telegram_buy)
+
 <br>
 
 
