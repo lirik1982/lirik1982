@@ -48,7 +48,13 @@
 <br>
 
 
-## &#x1f4c8; GitHub Stats
+## 📚 Моя домашняя библиотека
+Никто книги не указывает, а я подумал - почему бы и да!
+
+
+##
+
+&#x1f4c8; GitHub Stats
 
 <a href="https://github.com/lirik1982">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirik1982&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
