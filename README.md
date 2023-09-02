@@ -18,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=shop)](https://github.com/lirik1982/shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Django-Shop)](https://github.com/lirik1982/Django-Shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Telegram_buy)](https://github.com/lirik1982/Telegram_buy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Telegram_buy)](https://github.com/lirik1982/JuniorTest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=JuniorTest)](https://github.com/lirik1982/JuniorTest)
 
 <br>
 
