@@ -20,7 +20,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Telegram_buy)](https://github.com/lirik1982/Telegram_buy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=JuniorTest)](https://github.com/lirik1982/JuniorTest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=async_FastAPI)](https://github.com/lirik1982/async_FastAPI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=Asyncio-Test)](https://github.com/lirik1982/async_FastAPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lirik1982&repo=JT-Employers)](https://github.com/lirik1982/JT-Employers)
 
 <br>
